@@ -1,0 +1,10 @@
+C:\Users\Student\AppData\Local\Temporary Projects\PreviusDate\bin\Release\PreviusDate.exe
+C:\Users\Student\AppData\Local\Temporary Projects\PreviusDate\bin\Release\PreviusDate.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\PreviusDate\obj\x86\Release\PreviusDate.exe
+C:\Users\Student\AppData\Local\Temporary Projects\PreviusDate\obj\x86\Release\PreviusDate.pdb
+F:\Programming\C#\My projects\PreviusDate\PreviusDate\bin\Release\PreviusDate.exe
+F:\Programming\C#\My projects\PreviusDate\PreviusDate\bin\Release\PreviusDate.pdb
+F:\Programming\C#\My projects\PreviusDate\PreviusDate\obj\x86\Release\PreviusDate.csprojResolveAssemblyReference.cache
+F:\Programming\C#\My projects\PreviusDate\PreviusDate\obj\x86\Release\PreviusDate.csproj.CoreCompileInputs.cache
+F:\Programming\C#\My projects\PreviusDate\PreviusDate\obj\x86\Release\PreviusDate.exe
+F:\Programming\C#\My projects\PreviusDate\PreviusDate\obj\x86\Release\PreviusDate.pdb
